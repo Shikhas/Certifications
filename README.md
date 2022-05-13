@@ -1,4 +1,4 @@
 # Certifications
 Completed Certifications 
 
-This contains the certifications completed.
+This repo contain the certifications completed.
